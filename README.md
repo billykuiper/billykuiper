@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Billy Kuiper, a passionate software developer, teacher, tech-enhousiast and open-source fanatic. I specialize in teaching others about software development after studing for 7 years 
+I'm Billy Kuiper, a passionate software developer, teacher, tech-enhousiast and open-source fanatic. I specialize in teaching others about software development after studing for 7 years.
 
 After studies for 7 years I decided to specialize myself in teaching others about software development. In the past years I've had the oppertunity to work on different projects and level up my knowledge for different technologies.
 
