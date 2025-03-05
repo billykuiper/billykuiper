@@ -5,7 +5,7 @@ I'm Billy Kuiper, a passionate software developer, teacher, tech-enhousiast and 
 After studies for 7 years I decided to specialize myself in teaching others about software development. In the past years I've had the oppertunity to work on different projects and level up my knowledge for different technologies.
 
 ## 🚀 Experise
-In my professional journey I have worked in several teams as a Back-end developer with some Front-end in the mix. Within these teams I also embraced the role of Representative, where I was keeping contact with stakeholders and persuing feedback from users.
+In my professional journey I have worked in several teams as a Back-end developer with some Front-end in the mix. Within these teams I also embraced the role of Representative, where I was keeping contact with stakeholders and pursuing feedback from users.
 
 Beyond my professional persuits I develop open-source software to manage my retro video game collection. I believe we should archive the data we own so we can enjoy our data in the future. I aim to thrive and learn in a fast paced tech industry where I also can teach the skills needed to innovate.
 
@@ -27,7 +27,7 @@ While I was studing to become a software developer, I quickly came to the realiz
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=for-the-badge&logoColor=white)
+[](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=for-the-badge&logoColor=white)
 
 ## Daily Programs and Operatingsystems
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
