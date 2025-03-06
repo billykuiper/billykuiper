@@ -2,7 +2,7 @@
 
 I'm Billy Kuiper, a passionate software developer, teacher, tech-enhousiast and open-source fanatic. I specialize in teaching others about software development after studing for 7 years.
 
-After 7 years of study I decided to specialize myself in teaching others about software development. In the past years I've had the oppertunity to work on different projects and level up my knowledge for different technologies.
+After 7 years of study I decided to specialize myself in teaching others about software development. In the past years I've had the opportunity to work on different projects and level up my knowledge of different technologies.
 
 ## 🚀 Experise
 In my professional journey I have worked in several teams as a Back-end developer with some Front-end in the mix. Within these teams I also embraced the role of a Representative, where I was staying in contact with stakeholders and pursuing feedback from users.
