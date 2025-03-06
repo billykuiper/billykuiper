@@ -10,7 +10,7 @@ In my professional journey I have worked in several teams as a Back-end develope
 Beyond my professional persuits I develop open-source software to manage my retro video game collection. I believe we should archive the data we own so we can enjoy our data in the future. I aim to thrive and learn in a fast paced tech industry where I also can teach the skills needed to innovate.
 
 ## 🧑‍🏫 How I became a teacher
-While I was studing to become a software developer, I quickly came to the realization that just building features for clients wasn't as exciting as teaching my fellow peers. After finishing the highest level of vocational education I had a new goal. I wanted to become an IT teacher after my graduation at university of applied sciences. And the best is that I did achieve my goal while learning about the latest technologies along the way!
+While I was studing to become a software developer, I quickly came to the realization that just building features for clients wasn't as exciting as teaching my fellow peers. After finishing the highest level of vocational education I had a new goal. I wanted to become an IT teacher after my graduation at university of applied sciences. And the best part is that I did just that! I did achieve my goal while learning about the latest technologies, connecting with communities and sharing knowledge.
 
 ## Tech stack
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=fff)
