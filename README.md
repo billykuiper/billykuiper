@@ -2,7 +2,7 @@
 
 I'm Billy Kuiper, a passionate software developer, teacher, tech-enhousiast and open-source fanatic. I specialize in teaching others about software development after studing for 7 years.
 
-After 7 years of study I decided to specialize myself in teaching others about software development. In the past years I've had the oppertunity to work on different projects and level up my knowledge for different technologies.
+After 7 years of study I decided to specialize myself in teaching others about software development. In the past years I've had the opportunity to work on different projects and level up my knowledge of different technologies.
 
 ## 🚀 Experise
 In my professional journey I have worked in several teams as a Back-end developer with some Front-end in the mix. Within these teams I also embraced the role of a Representative, where I was staying in contact with stakeholders and pursuing feedback from users.
@@ -10,7 +10,7 @@ In my professional journey I have worked in several teams as a Back-end develope
 Beyond my professional persuits I develop open-source software to manage my retro video game collection. I believe we should archive the data we own so we can enjoy our data in the future. I aim to thrive and learn in a fast paced tech industry where I also can teach the skills needed to innovate.
 
 ## 🧑‍🏫 How I became a teacher
-While I was studing to become a software developer, I quickly came to the realization that just building features for clients wasn't as exciting as teaching my fellow peers. After finishing the highest level of vocational education I had a new goal. I wanted to become an IT teacher after my graduation at university of applied sciences. And the best is that I did achieve my goal while learning about the latest technologies along the way!
+While I was studing to become a software developer, I quickly came to the realization that just building features for clients wasn't as exciting as teaching my fellow peers. After finishing the highest level of vocational education I had a new goal. I wanted to become an IT teacher after my graduation at university of applied sciences. And the best part is that I did just that! I did achieve my goal while learning about the latest technologies, connecting with communities and sharing knowledge.
 
 ## Current Project 👇
 I ran into a problem while preserving my retro video game collection: I was unable to verify the data integrity of games across different video game systems. While searching for a simple solution, I kept getting the same answer: "Just look up the hash." While that is certainly an option, it’s a very manual process.
@@ -35,7 +35,7 @@ So, I decided to create a program that can check data integrity, archive, and ma
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=fff)
 [](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=for-the-badge&logoColor=white)
 
-## Daily Programs and Operatingsystems
+## Daily Programs and Operating systems
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](https://linuxmint.com/)
