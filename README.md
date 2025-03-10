@@ -12,6 +12,12 @@ Beyond my professional persuits I develop open-source software to manage my retr
 ## 🧑‍🏫 How I became a teacher
 While I was studing to become a software developer, I quickly came to the realization that just building features for clients wasn't as exciting as teaching my fellow peers. After finishing the highest level of vocational education I had a new goal. I wanted to become an IT teacher after my graduation at university of applied sciences. And the best is that I did achieve my goal while learning about the latest technologies along the way!
 
+## Current Project 👇
+I ran into a problem while preserving my retro video game collection: I was unable to verify the data integrity of games across different video game systems. While searching for a simple solution, I kept getting the same answer: "Just look up the hash." While that is certainly an option, it’s a very manual process.
+
+So, I decided to create a program that can check data integrity, archive, and manage your video game collection on a USB drive or HDD. And thus, PixelPreserver was born.
+
+
 ## Tech stack
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=000)
